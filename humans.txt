@@ -2,8 +2,8 @@
 # The humans responsible & technology colophon
 # this is a demo of git pull command
 # this is a mac demo..2
-# SSH Communication based on password
 # TEAM
+# SSH communication based on password
 #some change ---now
 # diff change test
     <name> -- <role> -- <twitter>
